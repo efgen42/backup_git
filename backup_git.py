@@ -3,9 +3,9 @@ import os
 from rotate import rotate
 
 BACKUP_DIRECTORY = 'F:\\gitlab'
-FTPS_PATH = '81.177.118.162'
-USER = 'backup'
-PASS = '5fr9NOROzILUKQAtko2V'
+FTPS_PATH = ' '
+USER = ' '
+PASS = ' '
 FTPS_STR = 'ftps://' + USER + ':' + PASS + '@' + FTPS_PATH + '/'
 
 if not os.path.isdir(BACKUP_DIRECTORY):
