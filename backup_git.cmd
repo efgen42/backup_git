@@ -1,0 +1,1 @@
+C:\Install\script\backup_git.py > C:\Install\script\out.log 2>&1
